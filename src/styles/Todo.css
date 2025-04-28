@@ -1,0 +1,10 @@
+.container {
+    width: 200px;
+    height: auto;
+    border: 2px;
+    border-color: red;
+    background-color: rgb(41, 235, 34);
+    border-radius: 10px;
+    margin: 50px;
+    
+}
