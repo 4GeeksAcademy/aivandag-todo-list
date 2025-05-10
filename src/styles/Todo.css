@@ -1,10 +1,21 @@
 .container {
-    width: 200px;
+    width: 400px;
     height: auto;
     border: 2px;
     border-color: red;
-    background-color: rgb(41, 235, 34);
-    border-radius: 10px;
+    background-color: rgba(235, 235, 232, 0.904);
+    border-radius: 3px;
     margin: 50px;
+    margin-bottom: 3px;
+    padding: 15px;
     
+   
+    
+}
+
+.input-tarea {
+    width: 95%;
+    padding: 8px;
+    margin: 5px;
+  
 }
