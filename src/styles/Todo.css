@@ -13,6 +13,8 @@
     margin: 50px;
     margin-bottom: 3px;
     padding: 15px;
+    box-shadow: 0 5px 5px black;
+    box-shadow: 0 15px 10px black;
 
 }
 
@@ -28,6 +30,7 @@
     position: relative;
     padding-bottom: 3px;
     align-items: flex-start;
+    padding-left: 0px;
 
 
 
